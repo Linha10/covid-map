@@ -1,0 +1,16 @@
+.allType {
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+    margin: auto;
+    font-family: 'Noto Sans JP', sans-serif;
+
+    div {
+        color: rgb(35, 41, 165);
+        font-weight: bold;
+    }
+
+    span {
+        color: red;
+    }
+}

@@ -1,0 +1,18 @@
+.citiesBtn {
+    width: 75%;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    .cityBtn {
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        width: 13%;
+        margin: 5px;
+        font-weight: 500;
+        font-size: 16px;
+        color: whitesmoke;
+        background-color: rgb(83, 166, 194);
+        transition: 0.5s;
+    }
+    .cityBtn:hover{
+        background-color: rgb(141, 103, 52);
+    }
+}

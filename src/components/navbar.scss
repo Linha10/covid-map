@@ -1,0 +1,23 @@
+.navBar{
+    background-color: rgb(65, 63, 63);
+    color: white;
+    display: flex;
+    height: 2.4em;
+    flex-direction: row;
+    font-weight: bold;
+    .navText{
+        color: rgb(196, 47, 47);
+        transition: 0.5s;
+    }
+    .navText:hover{
+        color:lightblue;
+    }
+    .paw{
+        width: 2%;
+    }
+    .webTitle{
+        margin-top: 0.5em;
+        margin-left:1em;
+        margin-right: 0.3em;
+    }
+}
